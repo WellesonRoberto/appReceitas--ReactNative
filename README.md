@@ -1,4 +1,4 @@
-# appReceitas--ReactNative
+# App de Receitas utilizadno o ReactNative
 
 Minha primeria experiência com o React Native e Node.js, onde desenvolvi um app de receitas para Android e IOS. Também utilizei o JavaScript e o CSS que serviu pra fixar tudo que tinha aprendido até agora.
 <hr/>
